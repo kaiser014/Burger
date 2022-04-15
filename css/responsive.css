@@ -216,4 +216,7 @@
     .banner-section {
         height: 130vh;
     }
+    .form-feild input {
+        width: 100%;
+    }
 }
