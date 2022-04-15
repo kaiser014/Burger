@@ -1,0 +1,219 @@
+@media (max-width: 576px) {
+    .header-section {
+        text-align: center;
+    }
+
+    .logo-image img {
+        width: 70%;
+    }
+
+    .delivery-contact {
+        text-align: left;
+    }
+
+    .delivery-icon {
+        margin-top: 10px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .delivery-contact img {
+        width: 30px;
+    }
+
+    .delivery-contact span {
+        font-size: 16px;
+    }
+
+    .banner-details {
+        margin-top: 122px;
+    }
+
+    .banner-details span {
+        font-size: 18px;
+    }
+
+    .banner-details h1 {
+        font-size: 70px;
+    }
+
+    .banner-details h3 {
+        font-size: 40px;
+    }
+
+    .banner-image img {
+        width: 100%;
+    }
+
+    .banner-section {
+        height: 100vh;
+    }
+
+    .food-image span {
+        font-size: 18px;
+        top: 16px;
+    }
+
+    .food-image img {
+        width: 100%;
+    }
+
+    .food-image h1 {
+        top: 45px;
+        font-size: 22px;
+    }
+
+    .food-item {
+        margin-bottom: 30px;
+    }
+
+    .choose-header h1 {
+        font-size: 35px;
+    }
+
+    .burger-content {
+        margin-bottom: 15px;
+    }
+
+    .event-details span {
+        font-size: 20px;
+    }
+
+    .event-details h1 {
+        font-size: 25px;
+    }
+
+    .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .booktable-header h1 {
+        font-size: 25px;
+    }
+
+    .booktable-section {
+        padding-top: 50px;
+        padding-bottom: 115px;
+    }
+
+    .form-feild input {
+        width: 100%;
+    }
+
+    .booktable-btn {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .footer-details p {
+        padding-right: 0px;
+    }
+
+    .copyright-details {
+        text-align: center;
+    }
+
+    .footer-social {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .navbar-nav {
+        background-color: #fff;
+        padding: 10px 0px;
+        text-align: left;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner-section {
+        height: 35vh;
+    }
+
+    .banner-details span {
+        font-size: 18px;
+    }
+
+    .banner-details h1 {
+        font-size: 70px;
+    }
+
+    .menu-items {
+        margin-top: 10px;
+    }
+
+    .banner-content {
+        padding: 85px 0;
+    }
+
+    .food-image span {
+        top: 16px;
+        font-size: 18px;
+    }
+
+    .food-image h1 {
+        font-size: 22px;
+    }
+
+    .burger-content h3 {
+        font-size: 30px;
+    }
+
+    .event-details h1 {
+        font-size: 22px;
+    }
+
+    .event-details span {
+        font-size: 18px;
+    }
+
+    .event-details p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        margin-top: 0px;
+    }
+
+    .booktable-section {
+        padding-top: 70px;
+    }
+
+    .form-feild input {
+        width: 100%;
+    }
+
+    .footer-sociallink span {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .copyright-details span {
+        font-size: 14px;
+    }
+
+    .footer-details p {
+        padding-right: 0px;
+    }
+}
+
+@media (max-width: 1025px) {
+    .banner-section {
+        height: 40vh;
+    }
+
+    .form-feild input {
+        width: 45%;
+    }
+}
+
+@media (max-width: 425px) {
+    .banner-section {
+        height: 130vh;
+    }
+}
